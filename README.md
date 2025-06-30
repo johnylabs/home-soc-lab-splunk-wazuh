@@ -17,7 +17,7 @@ Daily/weekly journal entries of progress, roadblocks, and wins.
 
 ---
 
-> This repo will grow as my skills grow. I’m learning in public — feedback welcome!# Certification Tracker
+> This repo will grow as my skills grow. I’m learning in public feedback welcome!# Certification Tracker
 
 30/06/2025
 - Network+ test booked in for Saturday
