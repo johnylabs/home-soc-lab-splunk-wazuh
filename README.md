@@ -11,8 +11,7 @@ This repo tracks my journey from zero to pro in IT and cybersecurity.
   - [ ] Splunk Core Certified Power User
 
 ### 🔧 PC Builds & Home Lab
-- 💻 $50 XC2 PC upgrade log
-- 🔄 AMD build plans
+- 💻 PC build log
 - 🖥️ Planning multiple server setups
 - 🛠️ Scavenged parts + mod logs
 
