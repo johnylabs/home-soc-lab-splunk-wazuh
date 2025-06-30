@@ -49,12 +49,12 @@ Display:--
 OS:     --  
 Temps:  CPU --°C / GPU --°C
 
-Workstation is doo doo for LLMs due to missing AVX/AVX2, wasted 2 days bug finding in bash to find this out... KMS :(.
+Workstation is doo doo for LLMs due to missing AVX/AVX2, buillt KoboldCPP from source... but ended up spending 2 days bug finding in bash to find this out... KMS :(.
 
-Will spend $300 to make create and AM4 Build... wither 5500, 5600x or 5700x depending if I can get used ones.
+Will spend $300 to build an AM4 Build... either 5500, 5600x or 5700x depending if I can get used ones.
 
 05/07/2025
-- DID I PASS?
+- DID I PASS? [ ] CompTIA Network+
 - DID I GET THE AMD PARTS?
 
 
