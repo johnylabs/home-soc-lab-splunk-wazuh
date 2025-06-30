@@ -2,7 +2,7 @@
 
 This repo tracks my journey from zero to pro in IT and cybersecurity.
 
-### 🎯 Goals
+### Goals
 - Land remote work in IT/cybersecurity
 - Pass key certifications
   - [ ] CompTIA Network+
@@ -10,9 +10,9 @@ This repo tracks my journey from zero to pro in IT and cybersecurity.
   - [ ] Microsoft AZ-900
   - [ ] Splunk Core Certified Power User
 
-### 🔧 PC Builds & Home Lab
+### PC Builds & Home Lab
 
-### 📅 Logs
+### Logs
 Daily/weekly journal entries of progress, roadblocks, and wins.
 
 ---
