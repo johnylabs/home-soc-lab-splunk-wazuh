@@ -3,7 +3,7 @@
 This repo tracks my journey from zero to pro in IT and cybersecurity.
 
 ### Goals
-- Land remote work in IT/cybersecurity
+- Land $40hr remote work in IT/cybersecurity
 - Pass key certifications
   - [ ] CompTIA Network+
   - [ ] CompTIA Security+
