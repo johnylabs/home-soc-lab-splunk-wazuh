@@ -26,27 +26,27 @@ Daily/weekly journal entries of progress, roadblocks, and wins.
 ### Builds
 
 # Workstation
-CPU:    i7-950 @ 3.2GHz OC    ($50 PCs)  
-Cooler: Stock Intel          ($50 PCs)  
-Mobo:   ASUS P6X58D-E        ($50 PCs)  
-RAM:    12GB @ 1403MHz OC    ($50 PCs)  
-GPU:    GTX 1080 8GB         (OLD)  
-SSD:    Crucial 512GB        (OLD)  
-PSU:    500W Seasonic        ($50 PCs)  
-Display:1920x1080 60Hz      (OLD)  
-OS:     Pop!_OS 22.04  
+CPU:    i7-950 @ 3.2GHz OC
+Cooler: Stock Intel
+Mobo:   ASUS P6X58D-E
+RAM:    12GB @ 1403MHz OC
+GPU:    GTX 1080 8GB
+SSD:    Crucial 512GB
+PSU:    500W Seasonic
+Display:1920x1080 60Hz
+OS:     Pop!_OS 22.04
 Temps:  CPU 48°C / GPU 49°C (Idle)
 
 # Server Skeleton
-CPU:    i7-950              ($50 PCs)  
-Cooler: Stock Intel         ($50 PCs)  
-Mobo:   ASUS P6X58D-E       ($50 PCs)  
-RAM:    --  
-GPU:    2x HD 5770          ($50 PCs)  
-SSD:    --  
-PSU:    500W Seasonic       ($50 PCs)  
-Display:--  
-OS:     --  
+CPU:    Xeon Gold 6138 (125W TDP, Turbo disabled)
+Cooler: "             
+Mobo:   LGA 3647
+RAM:    "
+GPU:    2x RTX 3090 (Undervolted, 275W cap per GPU)
+SSD:    "
+PSU:    950w Platinum
+Display:"
+OS:     Ubuntu 22.04 LTS w/ Docker, nvidia-persistenced
 Temps:  CPU --°C / GPU --°C
 
 Workstation is doo doo for LLMs due to missing AVX/AVX2, buillt KoboldCPP from source... but ended up spending 2 days bug finding in bash to find this out... KMS :(.
