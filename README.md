@@ -39,5 +39,7 @@ Legacy Builds
 | OS       | Windows 7 PRO *que MIDI*     |
 | Case     | E-waste~~380w PSU fliped RCD~~|
 | PSU      | 550w Ante VP550P //2012      |
+
 ![Screenshot 2025-08-02 at 2 37 32 AM](https://github.com/user-attachments/assets/013ede3d-d133-4e64-bc91-ccaaf8d5a913)
+
 ![Screenshot 2025-08-02 at 2 59 06 AM](https://github.com/user-attachments/assets/c57979a1-cd7e-4a13-9219-6167c8b51c52)
