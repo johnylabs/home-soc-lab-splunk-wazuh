@@ -9,7 +9,7 @@
 |---:|---|
 | SoC | Snapdragon 8 Gen 4 |
 | RAM | 12 GB LPDDR5X |
-| Storage | 270 GB UFS 4.0 *(OS + apps only, no sensitive data stored locally)* |
+| Storage | 256 GB UFS 4.0 *(OS + apps only, no sensitive data stored locally)* |
 | Display | 6.8" 3120×1440 AMOLED 120 Hz |
 | Secondary Display | Private network TV or wired USB-C → HDMI |
 | Input | Wired Keyboard and Mouse |
