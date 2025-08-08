@@ -1,20 +1,24 @@
 ## 🔧 Current Infrastructure
 
-| Component | Details                             |
-|----------:|--------------------------------------|
-| CPU       | Gold 3650 Xeon                                 |
-| RAM       | 32GB DDR4                            |
-| GPU 1     | Radeon HD 5770 1GB                   |
-| GPU 2     | Nvidia GTX 1080 8GB                  |
-| OS 1      | Proxmox                              |
-| OS 2      | Windows 11                           |
-| Usage     | LLM testing + SOC lab (Splunk, Wazuh) |
+| Component | Details                                   |
+|----------:|-------------------------------------------|
+| CPU       | 5120 Xeon Gold (DUAL PLANNED)             |
+| RAM       | 32GB DDR4 (64 PLANNED)                    |
+| STORAGE A | 3X500GB SSD IN RAIDZ-3 (1TB)              |
+| STORAGE B | NVMe 256GB                                |
+| GPU 1     | Radeon HD 5770 1GB                        |
+| GPU 2     | Nvidia GTX 1080 8GB                       |
+| Mobo      | DELL OEM                                  |
+| OS 1      | Type 1 Hypervisor                         |
+| OS 2      | Windows 11                                |
+| Case      | DELL OEM                                  |
+| PSU       | DELL OEM 950w                             |
 
 ---
 
 ### 🕹️ 2012/14 “GB1 Gaming Build”
 
-| Component | Details                                  |
+| Component | Details                                   |
 |----------:|-------------------------------------------|
 | CPU       | (USED) i5 2500                            |
 | CPU 2.0   | i5 2500 OC H20 620 `//2013`               |
@@ -35,8 +39,8 @@
 | Component | Details                                     |
 |----------:|---------------------------------------------|
 | CPU       | AMD Athlon II X2 260 (STOCK)                |
-| RAM       | 4GB DDR3 CMV4GX3M2A1333C9                    |
-| HDD A     | (USED) 500GB 2.5" 5200rpm                    |
+| RAM       | 4GB DDR3 CMV4GX3M2A1333C9                   |
+| HDD A     | (USED) 500GB 2.5" 5200rpm                   |
 | HDD B     | WD Green 2TB WD20EARX `//2012`              |
 | GPU       | (USED) Radeon HD 6770 1GB                   |
 | Mobo      | mATX ASRock 880GMH-LE AM3                   |
