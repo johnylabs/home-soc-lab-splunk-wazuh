@@ -9,14 +9,14 @@
 |---:|---|
 | SoC | Snapdragon 8 Gen 4 |
 | RAM | 12 GB LPDDR5X |
-| Storage | 256 GB UFS 4.0 *(OS + apps only, no sensitive data stored locally)* |
+| Storage | 256 GB UFS 4.0 (OS + apps only) |
 | Display | 6.8" 3120×1440 AMOLED 120 Hz |
-| Secondary Display | Private network TV or wired USB-C → HDMI |
-| Input | Wired Keyboard and Mouse |
+| Secondary Display | 7" portable HDMI/USB-C field monitor (fits in small tablet bag) |
+| Input | Wired keyboard + wired mouse |
 | OS | Android 15 with Samsung Knox Work Profile |
 | VPN | Always-on, AES-256 tunnel to private VLAN |
 | Security Controls | Full-disk encryption, biometric + passphrase, MDM-compatible, remote wipe enabled |
-| Role | SSH client into headless server (no local processing of sensitive data) |
+| Role | SOC/IT thin client to headless server, dual screen in portable form factor |
 
 **Security notes:**
 - Knox profile separates work and personal apps  
