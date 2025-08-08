@@ -2,7 +2,7 @@
 
 ---
 
-### 📱 WORKSTATION: Samsung Galaxy S25 Ultra  
+### 📱 WORKSTATION: DEDICATED Samsung Galaxy S25 Ultra  
 (Hardened thin-client setup for remote workloads)
 
 | Component | Details |
