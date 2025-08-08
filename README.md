@@ -36,8 +36,8 @@
 | RAM | 32 GB DDR4 *(64 planned)* |
 | Storage A | 3×500 GB SSD in RAIDZ-1 (~1 TB usable, ZFS encryption enabled) |
 | Storage B | NVMe 256 GB *(OS boot, encrypted)* |
-| GPU 1 | Radeon HD 5770 1 GB |
-| GPU 2 | Nvidia GTX 1080 8 GB *(upgrade path to dual modern GPUs planned)* |
+| GPU 1 | Radeon HD 5770 1 GB *(RTX 4060 Ti 16 GB)* |
+| GPU 2 | Nvidia GTX 1080 8 GB *(RTX 3090 24 GB)* |
 | Motherboard | Dell OEM |
 | OS 1 | Type-1 Hypervisor (Proxmox VE, 2FA for admin) |
 | OS 2 | Windows 11 *(VM - isolated network segment)* |
