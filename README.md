@@ -1,9 +1,11 @@
 ## 🔧 Current Infrastructure
 
-WORKSTATION 
-Samsung Galaxy S25 Ultra DEX + TV + Wired Keyboard + Wired Mouse :D
+|WORKSTATION (Samsung Galaxy S25 Ultra)                 |
+| Component | Details                                   |
+|----------:|-------------------------------------------|
+|
 
-HEADLESS SERVER
+|HEADLESS SERVER                                        |
 | Component | Details                                   |
 |----------:|-------------------------------------------|
 | CPU       | 5120 Xeon Gold (DUAL PLANNED)             |
