@@ -2,7 +2,7 @@
 
 | Component | Details                             |
 |----------:|--------------------------------------|
-| CPU       | Xeon                                 |
+| CPU       | Gold 3650 Xeon                                 |
 | RAM       | 32GB DDR4                            |
 | GPU 1     | Radeon HD 5770 1GB                   |
 | GPU 2     | Nvidia GTX 1080 8GB                  |
