@@ -49,7 +49,7 @@
 - Full disk encryption on all pools  
 - SSH access restricted by IP allowlist  
 - 2FA for hypervisor admin, hardware key for critical ops  
-- Encrypted full backups taken monthly (1.5TB USB C SSD), additional ad-hoc before major changes.
+- Encrypted full backups taken monthly (1.5TB USB C SSD), additional ad-hoc before major changes
 - GPU passthrough to isolated VMs
 
 ---
