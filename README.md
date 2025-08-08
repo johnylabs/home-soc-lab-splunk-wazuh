@@ -10,7 +10,7 @@
 |----------:|-------------------------------------------|
 | CPU       | 5120 Xeon Gold (DUAL PLANNED)             |
 | RAM       | 32GB DDR4 (64 PLANNED)                    |
-| STORAGE A | 3X500GB SSD IN RAIDZ-3 (1TB)              |
+| STORAGE A | 3X500GB SSD IN RAIDZ-1 (1TB)              |
 | STORAGE B | NVMe 256GB                                |
 | GPU 1     | Radeon HD 5770 1GB                        |
 | GPU 2     | Nvidia GTX 1080 8GB                       |
