@@ -23,7 +23,7 @@
 | Storage A | 3×500 GB SSD in **RAIDZ-1** (~1.0 TB usable) |
 | Storage B | NVMe 256 GB |
 | GPU 1 | Radeon HD 5770 1 GB *(4060ti 16 GB Planned)* |
-| GPU 2 | Nvidia GTX 1080 *(3090 24 GB Planned)* |
+| GPU 2 | Nvidia GTX 1080 8 GB *(3090 24 GB Planned)* |
 | Motherboard | Dell OEM |
 | OS 1 | Type-1 Hypervisor |
 | OS 2 | Windows 11 |
