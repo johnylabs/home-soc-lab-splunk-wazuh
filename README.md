@@ -1,7 +1,6 @@
 ## 🔧 Current Infrastructure
 
 #### WORKSTATION — Samsung Galaxy S25 Ultra  
-_(Daily driver. Doubles as a portable brain. Always paired with a TV for a proper dual-screen setup.)_
 
 | Component | Details |
 |---:|---|
@@ -16,7 +15,6 @@ _(Daily driver. Doubles as a portable brain. Always paired with a TV for a prope
 ---
 
 #### HEADLESS SERVER  
-_(Lives in the corner. Consumes power like it’s 2015. Does all the heavy lifting.)_
 
 | Component | Details |
 |---:|---|
