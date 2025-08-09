@@ -1,4 +1,10 @@
-## 🔧 Current Infrastructure
+## Current Infrastructure
+# Lab Activity Log
+- **2025-08-09** — Added Local Speedtest Server VM under `projects/01-local-speedtest-server`
+- **2025-08-07** — Updated Proxmox to 8.2, enabled 2FA for admin
+- **2025-08-05** — Integrated Suricata IDS with Wazuh SIEM (initial alert testing)
+- **2025-08-03** — Expanded VLAN segmentation to isolate legacy systems
+- **2025-08-01** — Documented Samsung S25 Ultra thin-client setup in README
 
 ---
 
