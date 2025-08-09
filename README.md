@@ -97,3 +97,29 @@
 
 ![Screenshot 2025-08-02 at 2 37 32 AM](https://github.com/user-attachments/assets/013ede3d-d133-4e64-bc91-ccaaf8d5a913)  
 ![Screenshot 2025-08-02 at 2 59 06 AM](https://github.com/user-attachments/assets/c57979a1-cd7e-4a13-9219-6167c8b51c52)
+
+## 📂 Folder Structure
+
+```
+home-soc-lab-flump-wazuh/
+├── infrastructure/
+│   ├── network-topology.md
+│   ├── hardware-specs.md
+│   └── proxmox-configs/
+│       └── README.md
+├── projects/
+│   ├── 01-local-speedtest-server/
+│   │   └── README.md
+│   ├── 02-wazuh-siem/
+│   │   └── README.md
+│   ├── 03-suricata-ids/
+│   │   └── README.md
+│   ├── 04-dns-filter-pihole/
+│   │   └── README.md
+│   └── 05-internal-malware-lab/
+│       └── README.md
+└── docs/
+    ├── lab-roadmap.md
+    ├── security-policies.md
+    └── learning-notes.md
+```
