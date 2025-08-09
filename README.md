@@ -1,4 +1,3 @@
-## Current Infrastructure
 # Lab Activity Log
 - **2025-08-09** — Added Local Speedtest Server VM under `projects/01-local-speedtest-server`
 - **2025-08-07** — Updated Proxmox to 8.2, enabled 2FA for admin
@@ -7,6 +6,8 @@
 - **2025-08-01** — Documented Samsung S25 Ultra thin-client setup in README
 
 ---
+
+## Current Infrastructure
 
 ### 📱 WORKSTATION: DEDICATED Samsung Galaxy S25 Ultra  
 (Hardened thin-client setup for remote workloads)
